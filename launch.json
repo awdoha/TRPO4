@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Lab4.UI Run (workspace root)",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "dotnet run --project \"${workspaceFolder}/Lab4.UI/Lab4.UI.csproj\"",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Lab4.Tests Run",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "dotnet test \"${workspaceFolder}/Lab4.Tests/Lab4.Tests.csproj\"",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

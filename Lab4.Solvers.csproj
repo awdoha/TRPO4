@@ -1,0 +1,13 @@
+﻿<!-- Проект-библиотека решателей: собирается в Lab4.Solvers.dll (сборка, содержит IL-код). На неё ссылаются Lab4.UI и Lab4.Tests. -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Целевая платформа .NET 10 (обычная, не Windows: библиотеке WinForms не нужен). -->
+    <TargetFramework>net10.0</TargetFramework>
+    <!-- Неявные using (System, System.IO, System.Linq, System.Collections.Generic и др.) подключаются автоматически: поэтому в NoLinqSolver.cs нет using, а File/List работают. -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Включён анализ null (nullable reference types): отсюда проверки is null в коде. -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

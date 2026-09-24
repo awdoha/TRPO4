@@ -1,0 +1,11 @@
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\bin\Debug\net10.0\Lab4.Solvers.deps.json
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\bin\Debug\net10.0\Lab4.Solvers.dll
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\bin\Debug\net10.0\Lab4.Solvers.pdb
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.AssemblyInfoInputs.cache
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.AssemblyInfo.cs
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.csproj.CoreCompileInputs.cache
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.dll
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\refint\Lab4.Solvers.dll
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\Lab4.Solvers.pdb
+D:\ТРПО(1)\КостинДА_4пр\Lab4.Solvers\obj\Debug\net10.0\ref\Lab4.Solvers.dll
